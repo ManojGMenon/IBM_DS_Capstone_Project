@@ -7,16 +7,16 @@ We will complete a notebook where we will build a classifier to predict whether 
 ## Tasks:
 We will load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. <br>
 We will use the following algorithms to build the models:<br>
-<li> k-Nearest Neighbour
+<ul><li> k-Nearest Neighbour
 <li> Decision Tree
 <li> Support Vector Machine
-<li> Logistic Regression <br>
+<li> Logistic Regression </ul>
 
 ## Components of the required Outputs (report items)
 The results will be reported as the accuracy of each classifier, using the following metrics when these are applicable:<br>
-<li> Jaccard index
+<ul><li> Jaccard index
 <li> F1-score
-<li> LogLoss<br><br>
+<li> LogLoss<br></ul>
 
 ## Dataset: 
 This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted.<br>
