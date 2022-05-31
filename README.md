@@ -1,4 +1,4 @@
-# IBM_DS_Assignment
+# IBM_DS_Project_LoanDefault
 Model creation and evaluation for predicting loan default/payment
 
 ## Project:
