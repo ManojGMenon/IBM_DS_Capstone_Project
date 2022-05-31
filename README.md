@@ -1,4 +1,4 @@
-# IBM_DS_Capstone_Project
+# IBM_DS_Assignment
 Model creation and evaluation for predicting loan default/payment
 
 ## Project:
