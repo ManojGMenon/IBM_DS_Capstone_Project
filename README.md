@@ -24,22 +24,22 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperS
 
 ## Jupyter Notebook :
 ### Approach to solving this problem
-1.	Problem definition
-2.	Setting up the environment (importing required libraries)
-3.	Loading the raw dataset
-4.	Cleaning the data
+<ul><li>1. Problem definition
+<li>2. Setting up the environment (importing required libraries)
+<li>3. Loading the raw dataset
+<li>4. Cleaning the data
 <ul> <li>Adjusting data formats <li>
         Data visualization for exploration <li>
         Feature selection/extraction <li>
         Converting categorical to numeric data <li>
         One-hot encoding <li>
-        Dropping unnecessary data </ul>
-5.	Data Modelling & Evaluation with KNN
+        Dropping unnecessary data </li></ul>
+<li>5. Data Modelling & Evaluation with KNN
 <ul> <li> Feature selection (X,y) <li>
           Create training & test sets <li>
           Normalize the data <li>
           Train the model using the Training set <li>
           Make prediction using the Test set <li>
           Find model accuracy using Jaccard index, for different values of ‘k’  (best model) <li>
-          Output : Chart of K vs Accuracy - showing highest K value. </ul>
+        Output : Chart of K vs Accuracy - showing highest K value. </ul></ul>
 
